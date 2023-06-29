@@ -1,2 +1,2 @@
-# ALt school assignment V2
- ALt school assignment V2
+# ALT school assignment V2
+ ALT school assignment V2
